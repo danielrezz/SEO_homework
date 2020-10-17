@@ -10,7 +10,7 @@
     Open up the HTML document and analyze the back-end. You can also see the Horiseon website functioning as intended. It should look something like this:
     </p>
     <br>
-    <img src="/Users/user/Desktop/classwork/SEO_homework/assets/images/Screen Shot 2020-10-17 at 10.07.23 AM.png">
+    <img src="/Users/user/Desktop/classwork/SEO_homework/assets/images/Screen Shot 2020-10-17 at 10.07.23 AM.png" />
 
 <h2>Tests</h2>
     <p>
